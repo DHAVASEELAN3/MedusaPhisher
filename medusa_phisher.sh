@@ -31,7 +31,7 @@ sleep 3
 
 open_page() {
 
-    url="https://github.com/Adrilaw"
+    url="https://github.com/DHAVASEELAN3"
 
     open "$url"
 
@@ -159,7 +159,7 @@ echo "                         | |\/| |/ _ \/ _\`| | | / __|/ _\`| | |_) | '_ \|
 
 echo "                         | |  | |  __/ (_| | |_| \__ \ (_| | |  __/| | | | \__ \ | | |  __/ |  "  
 
-echo "                         |_|  |_|\___|\__,_|\__,_|___/\__,_| |_|   |_| |_|_|___/_| |_|\___|_|  CODED BY: Adrilaw Github: https://github.com/Adrilaw"
+echo "                         |_|  |_|\___|\__,_|\__,_|___/\__,_| |_|   |_| |_|_|___/_| |_|\___|_|  CODED BY: Dhavasee Github: https://github.com/DHAVASEELAN3"
 
 echo -e "\e[1;33m"
 
